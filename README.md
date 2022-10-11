@@ -23,3 +23,6 @@ TV programs not included in the development set.
 
 ### Dataset Composition
 ![](https://github.com/polimi-ispl/ITTV/blob/main/images/duration_table.png)
+
+
+![](https://github.com/polimi-ispl/ITTV/blob/main/images/duration_boxplot.png)
