@@ -20,3 +20,6 @@ We provide a balanced [training](https://github.com/polimi-ispl/ITTV/train_fold.
 [validation](https://github.com/polimi-ispl/ITTV/val_fold.csv) split, 
 as well as a disjoint [test set](https://github.com/polimi-ispl/ITTV/test_fold.csv) containing 525 installments from 
 TV programs not included in the development set.
+
+### Dataset Composition
+![](https://github.com/polimi-ispl/ITTV/blob/main/images/duration_table.png)
