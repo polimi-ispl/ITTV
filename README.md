@@ -16,11 +16,14 @@ RAI dataset described in [(Montagnuolo and Messina, 2007)](https://ieeexplore.ie
 
 This repository (will) contain genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/meta.csv). Please note that audio data is not provided.
 
-We provide a balanced [training](https://github.com/polimi-ispl/ITTV/train_fold.csv) and
-[validation](https://github.com/polimi-ispl/ITTV/val_fold.csv) split, 
-as well as a disjoint [test set](https://github.com/polimi-ispl/ITTV/test_fold.csv) containing 525 installments from 
+We provide the annotations for a balanced **training** (`train`) and **validation** (`val`) split, 
+as well as for a disjoint **test set** (`test`) containing 525 installments from 
 TV programs not included in the development set.
 
 ![](https://github.com/polimi-ispl/ITTV/blob/main/images/duration_table.png)
 
 ![](https://github.com/polimi-ispl/ITTV/blob/main/images/duration_boxplot.png)
+
+## Known Issues
+
+Some YouTube videos and channels (especially from the `football` class) may not be available in every country due regional restrictions imposed by the content creator. All videos are accessible from Italy.
