@@ -4,7 +4,7 @@ ITTV is a publicly available dataset of Italian TV programs presented in
 
 > Paolo Sani, Alessandro Ilic Mezza, and Augusto Sarti, "Automatic TV Genre Classification Using Visually-Aware Deep Audio Features," _unpublished_, 2022.
 
-ITTV consists of 2,625 manually annotated YouTube videos, totalling over 675 hours. Each clip is assigned one of seven classes similarly to the 
+ITTV consists of 2,625 manually annotated YouTube videos, totaling over 675 hours. Each clip is assigned one of seven classes similarly to the 
 RAI dataset described in [(Montagnuolo and Messina, 2007)](https://ieeexplore.ieee.org/document/4312865), i.e.,
 * `Cartoons`
 * `Commercials`
@@ -14,7 +14,7 @@ RAI dataset described in [(Montagnuolo and Messina, 2007)](https://ieeexplore.ie
 * `Talk Shows`
 * `Weather Forecast`
 
-This repository (will) contain genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/ittv.csv). Please note that audio data is not provided.
+This repository contains genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/ittv.csv). Please note that audio data is not provided.
 
 We provide the annotations for a balanced **training** (`train`) and **validation** (`val`) split, 
 as well as for a disjoint **test set** (`test`) containing 525 installments from 
