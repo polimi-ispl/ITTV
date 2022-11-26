@@ -14,7 +14,7 @@ RAI dataset described in [(Montagnuolo and Messina, 2007)](https://ieeexplore.ie
 * `Talk Shows`
 * `Weather Forecast`
 
-This repository (will) contain genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/meta.csv). Please note that audio data is not provided.
+This repository (will) contain genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/ittv.csv). Please note that audio data is not provided.
 
 We provide the annotations for a balanced **training** (`train`) and **validation** (`val`) split, 
 as well as for a disjoint **test set** (`test`) containing 525 installments from 
@@ -26,4 +26,4 @@ TV programs not included in the development set.
 
 ## Known Potential Issues
 
-Some YouTube videos (especially from the `Football` class and, to a lesser extent, `Cartoons`) may not be available in every country due to regional restrictions imposed by the content creator. All videos are known to be accessible from Italy (last accessed on Nov. 26th, 2022.)
+Some YouTube videos (especially from the `Football` class and, to a lesser extent, `Cartoons`) may not be available in every country due to regional restrictions imposed by the content creator. All videos are known to be accessible from Italy (last accessed on Nov. 25th, 2022.)
