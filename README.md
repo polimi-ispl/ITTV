@@ -14,7 +14,7 @@ RAI dataset described in [(Montagnuolo and Messina, 2007)](https://ieeexplore.ie
 * `Talk Shows`
 * `Weather Forecast`
 
-This repository contains genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/ittv.csv). Please note that audio data is not provided.
+This repository contains genre annotations and metadata in [csv format](https://github.com/polimi-ispl/ITTV/blob/main/ittv.csv). Please note that audio data is not provided.
 
 We provide the annotations for a balanced **training** (`train`) and **validation** (`val`) split, 
 as well as for a disjoint **test set** (`test`) containing 525 installments from 
