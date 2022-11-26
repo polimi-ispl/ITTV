@@ -26,4 +26,4 @@ TV programs not included in the development set.
 
 ## Known Potential Issues
 
-Some YouTube videos and channels (especially from the `Football` class and, to a lesser extent, `Cartoons`) may not be available in every country due regional restrictions imposed by the content creator. All videos are known to be accessible from Italy (last accessed Nov. 26th, 2022.)
+Some YouTube videos and channels (especially from the `Football` class and, to a lesser extent, `Cartoons`) may not be available in every country due to regional restrictions imposed by the content creator. All videos are known to be accessible from Italy (last accessed Nov. 26th, 2022.)
