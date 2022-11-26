@@ -26,4 +26,6 @@ TV programs not included in the development set.
 
 ## Known Potential Issues
 
+As YouTube is continuously updating, some videos may not be available in the future. Although we intend to keep ITTV updated as best as possible, please note that the durations reported in the table above may differ from those of the content available at any given time.
+
 Some YouTube videos (especially from the `Football` class and, to a lesser extent, `Cartoons`) may only be available in some countries due to regional restrictions imposed by the content creator. All videos are known to be accessible from Italy (last accessed on Nov. 25th, 2022.)
