@@ -6,7 +6,7 @@ ITTV was introduced in
 
 > Alessandro Ilic Mezza, Paolo Sani, and Augusto Sarti, "Automatic TV Genre Classification Based on Visually-Conditioned Deep Audio Features," 2023 31st European Signal Processing Conference (EUSIPCO), 2023.
 
-The dataset is now available on [Zenodo](https://zenodo.org/record/8027327) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027327.svg)](https://doi.org/10.5281/zenodo.8027327)
+__Update:__ The dataset is now available on [Zenodo](https://zenodo.org/record/8027327) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027327.svg)](https://doi.org/10.5281/zenodo.8027327)
 
 
 ITTV consists of 2,625 manually annotated YouTube videos, totaling over 673 hours. Each clip is assigned one of seven classes similarly to the 
