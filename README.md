@@ -1,9 +1,17 @@
 # ITTV - A Dataset of Italian Television for Automatic Genre Classification
 
-ITTV is a publicly available dataset of Italian TV programs. 
+ITTV is a publicly available dataset of Italian TV programs.
+
+ITTV was introduced in 
+
+> Alessandro Ilic Mezza, Paolo Sani, and Augusto Sarti, "Automatic TV Genre Classification Based on Visually-Conditioned Deep Audio Features," 2023 31st European Signal Processing Conference (EUSIPCO), 2023.
+
+The dataset is now available on [Zenodo](https://zenodo.org/record/8027327) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027327.svg)](https://doi.org/10.5281/zenodo.8027327)
+
 
 ITTV consists of 2,625 manually annotated YouTube videos, totaling over 673 hours. Each clip is assigned one of seven classes similarly to the 
-RAI dataset described in [(Montagnuolo and Messina, 2007)](https://ieeexplore.ieee.org/document/4312865), i.e.,
+RAI dataset described in [(Montagnuolo and Messina, 2009)](https://link.springer.com/article/10.1007/s11042-008-0222-3), i.e.,
+
 * `Cartoons`
 * `Commercials`
 * `Football`
