@@ -1,8 +1,6 @@
 # ITTV - A Dataset of Italian Television for Automatic Genre Classification
 
-ITTV is a publicly available dataset of Italian TV programs.
-
-ITTV was introduced in 
+ITTV is a publicly available dataset of Italian TV programs introduced in 
 
 > Alessandro Ilic Mezza, Paolo Sani, and Augusto Sarti, "Automatic TV Genre Classification Based on Visually-Conditioned Deep Audio Features," 2023 31st European Signal Processing Conference (EUSIPCO), 2023.
 
